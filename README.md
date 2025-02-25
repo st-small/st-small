@@ -1,18 +1,29 @@
-## Hi there I'm Stan 👋
+<div id="header" align="center">
+<h1>
+Hi there I'm Stan 👋
+</h1>
+</div>
 
 [![Stanislav Shiyanovskiy profile views](https://u8views.com/api/v1/github/profiles/1850189/views/day-week-month-total-count.svg)](https://u8views.com/github/st-small)
 
-<!--
-**st-small/st-small** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About Me :
 
-Here are some ideas to get you started:
+iOS Developer | Self hosting Enthusiast
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### My stack and tools :
+
+<div style="display: flex; align-items: flex-start; align: center">
+<table align="center">
+    <tr>
+        <th>Заголовок 1</th>
+        <th>Заголовок 2</th>
+    </tr>
+    <tr>
+        <td>Ячейка 1.1</td>
+        <td>Ячейка 2.1</td>
+    </tr>
+    <tr>
+        <td>Ячейка 1.2</td>
+        <td>Ячейка 2.2</td>
+    </tr>
+</table>
