@@ -34,8 +34,6 @@ iOS Developer | Self hosting Enthusiast
             <img src="./images/androidstudio-original.svg" alt="AndroidStudio" width="44" height="44"/>
         <br>Android
         </td>
-    </tr>
-    <tr>
         <td align="center" width="60">
             <img src="./images/git-original.svg" alt="Git" width="44" height="44"/>
         <br>Git
@@ -44,6 +42,8 @@ iOS Developer | Self hosting Enthusiast
             <img src="./images/gitlab-original.svg" alt="GitLab" width="44" height="44"/>
         <br>GitLab
         </td>
+    </tr>
+    <tr>
         <td align="center" width=60>
             <img src="./images/bitbucket-original.svg" alt="BitBucket" width="44" height="44"/>
         <br>BitBucket
@@ -56,8 +56,6 @@ iOS Developer | Self hosting Enthusiast
             <img src="./images/homebrew-original.svg" alt="Homebrew" width="44" height="44"/>
         <br>Homebrew
         </td>
-    </tr>
-    <tr>
         <td align="center" width=60>
             <img src="./images/ruby-original.svg" alt="Ruby" width="44" height="44"/>
         <br>Ruby
@@ -74,12 +72,12 @@ iOS Developer | Self hosting Enthusiast
             <img src="./images/docker-original.svg" alt="Docker" width="44" height="44"/>
         <br>Docker
         </td>
+    </tr>
+    <tr>
         <td align="center" width="60">
             <img src="./images/digitalocean-original.svg" alt="DO" width="44" height="44"/>
         <br>DO
         </td>
-    </tr>
-    <tr>
         <td align="center" width="60">
             <img src="./images/linux-original.svg" alt="Linux" width="44" height="44"/>
         <br>Linux
@@ -100,8 +98,6 @@ iOS Developer | Self hosting Enthusiast
             <img src="./images/notion-original.svg" alt="Notion" width="44" height="44"/>
         <br>Notion
         </td>
-    </tr>
-    <tr>
         <td align="center" width=60>
             <img src="./images/postman-original.svg" alt="Postman" width="44" height="44"/>
         <br>Postman
