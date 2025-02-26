@@ -5,6 +5,28 @@
 </h1>
 </div>
 
+### Connect with me:
+<div>
+    <a href="https://www.linkedin.com/in/stanly-shiyanovskiy/">
+        <img align="left" style="margin-right: 10px;" alt="LinkedIn" width="42px" src="./images/linkedin.svg" />
+    </a>
+    <a href="https://github.com/st-small/">
+        <img align="left" style="margin-right: 10px;" alt="Github" width="42px" src="./images/github.svg" />
+    </a>
+    <a href="https://t.me/Stan_Shiyanovskiy">
+        <img align="left" style="margin-right: 10px;" alt="Telegram" width="42px" src="./images/telegram.svg" />
+    </a>
+    <a href="mailto:stanly.shiyanovskiy@gmail.com">
+        <img align="left" style="margin-right: 10px;" alt="Gmail" width="42px" src="./images/gmail.svg" />
+    </a>
+    <a href="https://www.facebook.com/stanley.shiyanovskiy/">
+        <img align="left" style="margin-right: 10px;" alt="Facebook" width="42px" src="./images/facebook.svg" />
+    </a>
+    <br>
+</div>
+
+<br />
+
 ### About Me :
 
 iOS Developer | Self hosting Enthusiast
@@ -124,4 +146,14 @@ iOS Developer | Self hosting Enthusiast
   </tr>
 </table>
 
-[![Stanislav Shiyanovskiy profile views](https://u8views.com/api/v1/github/profiles/1850189/views/day-week-month-total-count.svg)](https://u8views.com/github/st-small)
+<br>
+
+<div align="center">
+<a href="https://u8views.com/github/st-small"><img src="https://u8views.com/api/v1/github/profiles/1850189/views/day-week-month-total-count.svg"></a>
+</div>
+
+<br>
+
+<div>
+<SocialIcon url="https://linkedin.com/in/couetilc" />
+</div>
