@@ -8,19 +8,19 @@
 ### Connect with me:
 <div>
     <a href="https://www.linkedin.com/in/stanly-shiyanovskiy/">
-        <img align="left" style="margin-right: 10px;" alt="LinkedIn" width="42px" src="./images/linkedin.svg" />
+        <img align="left" style="margin-right: 10px;" alt="LinkedIn" width="42px" src="./images/LinkedIN.svg" />
     </a>
     <a href="https://github.com/st-small/">
-        <img align="left" style="margin-right: 10px;" alt="Github" width="42px" src="./images/github.svg" />
+        <img align="left" style="margin-right: 10px;" alt="Github" width="42px" src="./images/Github.svg" />
     </a>
     <a href="https://t.me/Stan_Shiyanovskiy">
-        <img align="left" style="margin-right: 10px;" alt="Telegram" width="42px" src="./images/telegram.svg" />
+        <img align="left" style="margin-right: 10px;" alt="Telegram" width="42px" src="./images/Telegram.svg" />
     </a>
     <a href="mailto:stanly.shiyanovskiy@gmail.com">
-        <img align="left" style="margin-right: 10px;" alt="Gmail" width="42px" src="./images/gmail.svg" />
+        <img align="left" style="margin-right: 10px;" alt="Gmail" width="42px" src="./images/Gmail.svg" />
     </a>
     <a href="https://www.facebook.com/stanley.shiyanovskiy/">
-        <img align="left" style="margin-right: 10px;" alt="Facebook" width="42px" src="./images/facebook.svg" />
+        <img align="left" style="margin-right: 10px;" alt="Facebook" width="42px" src="./images/Facebook.svg" />
     </a>
     <br>
 </div>
